@@ -14,10 +14,10 @@ Usage of Lockphish for attacking targets without prior mutual consent is illegal
 
 <h1>Usage:</h1>
 
-<p>cd Desktop
+<p>-cd Desktop
 <br/>
-git clone https://github.com/Kihyu/Lockphish.git
+-git clone https://github.com/Kihyu/Lockphish.git
 <br/>
-cd lockphish
+-cd lockphish
 <br/>
-bash lockphish.sh<p>
+-bash lockphish.sh<p>
